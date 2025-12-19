@@ -8,8 +8,7 @@ Welcome to my portfolio! I am an **entry-level Data Analyst** with hands-on expe
 
 - Name: **Jacob Darkor Appiah**  
 - Role: **Data Analyst | AWS Certified Cloud Practitioner**  
-- Location: [Your City, Country]  
-- Email: [yourname@email.com](mailto:yourname@email.com)  
+- Location: [Accra, Ghana] 
 - Portfolio: [JacobDarkorAppiah.github.io](https://JacobDarkorAppiah.github.io)
 
 I specialize in transforming raw data into actionable insights using **Excel, SQL, Python, Power BI, and Tableau**. I enjoy solving business problems with data and building dashboards that drive informed decisions.
