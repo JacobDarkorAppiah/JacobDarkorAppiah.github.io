@@ -63,9 +63,7 @@ Visit my live portfolio here: [JacobDarkorAppiah.github.io](https://JacobDarkorA
 ## 📫 Contact Me
 
 - **GitHub:** [JacobDarkorAppiah](https://github.com/JacobDarkorAppiah)  
-- **LinkedIn:** [Jacob Darkor Appiah](https://www.linkedin.com/in/jacob-darkor-appiah-a1a64932a)  
-- **Email:** [yourname@email.com](mailto:yourname@email.com)
-
+- **LinkedIn:** [Jacob Darkor Appiah](https://www.linkedin.com/in/jacob-darkor-appiah-a1a64932a)
 ---
 
 ## 💡 Notes
